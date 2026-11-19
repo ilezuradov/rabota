@@ -1,0 +1,1 @@
+{"uuid":"6f2310aa-5dcb-4294-9fda-74f175620dfc","name":"Негативный: оформление без заполнения полей","children":["9a5c8621-4c6d-4e6b-ab46-9cfecb6e4e40"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1793448868992,"stop":1793448869086}],"start":1793448866376,"stop":1793448869087}

@@ -1,0 +1,1 @@
+{"uuid":"dd689ecb-a084-4a20-89a4-26b5320a33ff","name":"Полный путь покупки через Page Object","children":["2e3abc49-36a1-4b0f-bee5-c3a5aa80f527"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1793447216885,"stop":1793447216975}],"start":1793447214138,"stop":1793447216976}

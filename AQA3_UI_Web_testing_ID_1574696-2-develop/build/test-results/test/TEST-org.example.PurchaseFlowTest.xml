@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.PurchaseFlowTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-31T12:26:14" hostname="MacBook-Air-ilez.local" time="7.558">
+  <properties/>
+  <testcase name="Негативный: оформление без заполнения полей" classname="org.example.PurchaseFlowTest" time="2.452"/>
+  <testcase name="Негативный: неверный пароль" classname="org.example.PurchaseFlowTest" time="2.176"/>
+  <testcase name="Полный путь покупки через Page Object" classname="org.example.PurchaseFlowTest" time="2.924"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[окт. 31, 2026 3:26:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 156
+окт. 31, 2026 3:26:15 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 156.0.8078.79. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.25.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+окт. 31, 2026 3:26:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 156
+окт. 31, 2026 3:26:17 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 156.0.8078.79. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.25.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+окт. 31, 2026 3:26:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 156
+окт. 31, 2026 3:26:19 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 156.0.8078.79. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.25.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>

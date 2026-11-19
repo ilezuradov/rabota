@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OkHttp API Tests - manual-solution" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-29T15:57:25.640Z" hostname="MacBook-Air-ilez.local" time="12.489">
+  <properties/>
+  <testcase name="GET /users/23 — Негативный тест: пользователь не найден (404)" classname="com.school21.okhttp.OkHttpTests" time="1.935"/>
+  <testcase name="GET /users?page=2 — Успешное получение списка пользователей" classname="com.school21.okhttp.OkHttpTests" time="1.99"/>
+  <testcase name="DELETE /invalid_endpoint — Негативный тест: удаление по неверному эндпоинту (401)" classname="com.school21.okhttp.OkHttpTests" time="1.393"/>
+  <testcase name="PUT /unknown_endpoint/999 — Негативный тест: обновление по несуществующему пути" classname="com.school21.okhttp.OkHttpTests" time="1.39"/>
+  <testcase name="DELETE /users/2 — Успешное удаление пользователя" classname="com.school21.okhttp.OkHttpTests" time="1.489"/>
+  <testcase name="POST /users — Успешное создание пользователя (построчно + mapper.readValue)" classname="com.school21.okhttp.OkHttpTests" time="1.405"/>
+  <testcase name="POST /register — Негативный тест: ошибка регистрации без пароля (400)" classname="com.school21.okhttp.OkHttpTests" time="1.388"/>
+  <testcase name="PUT /users/2 — Успешное обновление пользователя" classname="com.school21.okhttp.OkHttpTests" time="1.392"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

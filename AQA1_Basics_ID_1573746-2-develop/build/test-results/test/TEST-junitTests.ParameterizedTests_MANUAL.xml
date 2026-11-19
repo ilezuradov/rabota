@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junitTests.ParameterizedTests_MANUAL" tests="62" skipped="0" failures="0" errors="0" timestamp="2026-09-04T19:16:44.925Z" hostname="MacBook-Air-ilez.local" time="0.509">
+  <properties/>
+  <testcase name="[1] Alexander 25 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[2] Ekaterina 30 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[3] Vladimir 45 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[4] Natalia 22 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[5] Dmitry 35 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[1] А роза упала на лапу Азора, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[2] Madam, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[3] madam, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[4] 12321, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[5] , true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[6]    , true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[7] A man a plan a canal Panama, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[8] Racecar, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[9] Never odd or even, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[10]    a   , true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[11] Hello, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[12] Java, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[13] !@#$%, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[14] 12345, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[15] Testing, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[16] null, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[17] A, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[18] Aa, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[1] Bob 20 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[2] Al 15 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[3] Alexander 15 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[4] Alex 17 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[5] Alexander 25" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[6] Invalid string" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[7] " classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[8] John 20 year" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[1] Alexander 25 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.004"/>
+  <testcase name="[2] Ekaterina 30 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[3] Vladimir 45 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.004"/>
+  <testcase name="[4] Natalia 22 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[5] Dmitry 35 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.005"/>
+  <testcase name="[1] А роза упала на лапу Азора, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[2] Madam, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[3] madam, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[4] 12321, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.004"/>
+  <testcase name="[5] , true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[6]    , true" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[7] A man a plan a canal Panama, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[8] Racecar, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[9] Never odd or even, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[10]    a   , true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[11] Hello, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[12] Java, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[13] !@#$%, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[14] 12345, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[15] Testing, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.002"/>
+  <testcase name="[16] null, false" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[17] A, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[18] Aa, true" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[1] Bob 20 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[2] Al 15 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[3] Alexander 15 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[4] Alex 17 years" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[5] Alexander 25" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[6] Invalid string" classname="junitTests.ParameterizedTests_MANUAL" time="0.0"/>
+  <testcase name="[7] " classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <testcase name="[8] John 20 year" classname="junitTests.ParameterizedTests_MANUAL" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

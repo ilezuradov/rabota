@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junitTests.MethodExamplesTest_MANUAL" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-04T19:16:44.795Z" hostname="MacBook-Air-ilez.local" time="0.487">
+  <properties/>
+  <testcase name="Тест вычисления факториала - проверяет корректность вычисления факториала для разных чисел" classname="junitTests.MethodExamplesTest_MANUAL" time="0.002"/>
+  <testcase name="Тест проверки совершенных чисел - проверяет корректность определения совершенных чисел" classname="junitTests.MethodExamplesTest_MANUAL" time="0.001"/>
+  <testcase name="Тест подсчета вхождений цифры - проверяет корректность подсчета цифры в числе" classname="junitTests.MethodExamplesTest_MANUAL" time="0.001"/>
+  <testcase name="Тест проверки простых чисел - проверяет корректность определения простых чисел" classname="junitTests.MethodExamplesTest_MANUAL" time="0.002"/>
+  <testcase name="Тест вычисления факториала - проверяет корректность вычисления факториала для разных чисел" classname="junitTests.MethodExamplesTest_MANUAL" time="0.004"/>
+  <testcase name="Тест проверки совершенных чисел - проверяет корректность определения совершенных чисел" classname="junitTests.MethodExamplesTest_MANUAL" time="0.001"/>
+  <testcase name="Тест подсчета вхождений цифры - проверяет корректность подсчета цифры в числе" classname="junitTests.MethodExamplesTest_MANUAL" time="0.001"/>
+  <testcase name="Тест проверки простых чисел - проверяет корректность определения простых чисел" classname="junitTests.MethodExamplesTest_MANUAL" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

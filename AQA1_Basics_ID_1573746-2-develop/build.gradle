@@ -1,0 +1,62 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+group = 'ru.school21.example'
+version = '1.0-SNAPSHOT'
+
+ext {
+    allureVersion = "2.29.0"
+    junitVersion = "5.9.1"
+    lombokVersion = '1.18.34'
+}
+
+compileJava {
+    options.release = 21
+}
+
+compileTestJava {
+    options.release = 21
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+dependencies {
+    //utils
+    compileOnly "org.projectlombok:lombok:${lombokVersion}"
+    annotationProcessor "org.projectlombok:lombok:${lombokVersion}"
+
+    //JUnit 5
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.10.0'
+
+    //JUnit 5 - для параметризованных тестов
+    testImplementation 'org.junit.jupiter:junit-jupiter-params:5.10.0'
+
+    //JUnit 5 Suite (Задание 4)
+    testImplementation 'org.junit.platform:junit-platform-suite:1.10.0'
+    testRuntimeOnly 'org.junit.platform:junit-platform-suite-engine:1.10.0'
+
+    //TestNG (Задание 7)
+    testImplementation 'org.testng:testng:7.8.0'
+}
+
+test {
+    useJUnitPlatform()
+
+    testLogging {
+        exceptionFormat = 'full'
+        showExceptions = true
+        showCauses = true
+        showStackTraces = false
+        showStandardStreams = true
+    }
+}

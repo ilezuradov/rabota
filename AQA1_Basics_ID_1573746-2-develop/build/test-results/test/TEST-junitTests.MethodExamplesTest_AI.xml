@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junitTests.MethodExamplesTest_AI" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-04T19:16:44.771Z" hostname="MacBook-Air-ilez.local" time="0.525">
+  <properties/>
+  <testcase name="Тест вычисления факториала: проверка корректной работы метода factorial с разными числами" classname="junitTests.MethodExamplesTest_AI" time="0.014"/>
+  <testcase name="Тест проверки совершенных чисел: проверка корректной работы метода isPerfect" classname="junitTests.MethodExamplesTest_AI" time="0.002"/>
+  <testcase name="Тест подсчета вхождений цифры: проверка корректной работы метода digitCountInNumber с разными числами" classname="junitTests.MethodExamplesTest_AI" time="0.001"/>
+  <testcase name="Тест проверки простых чисел: проверка корректной работы метода isPrime" classname="junitTests.MethodExamplesTest_AI" time="0.002"/>
+  <testcase name="Тест вычисления факториала: проверка корректной работы метода factorial с разными числами" classname="junitTests.MethodExamplesTest_AI" time="0.001"/>
+  <testcase name="Тест проверки совершенных чисел: проверка корректной работы метода isPerfect" classname="junitTests.MethodExamplesTest_AI" time="0.0"/>
+  <testcase name="Тест подсчета вхождений цифры: проверка корректной работы метода digitCountInNumber с разными числами" classname="junitTests.MethodExamplesTest_AI" time="0.001"/>
+  <testcase name="Тест проверки простых чисел: проверка корректной работы метода isPrime" classname="junitTests.MethodExamplesTest_AI" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
